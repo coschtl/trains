@@ -1,0 +1,60 @@
+engines:
+  - emptyWeight: 2000
+    length: 15
+    traction: 20000
+    passengerCapacity: 5
+    freightCapacity: 1000
+    typeName: Coole Diesel-Lok
+    manufacturer: OEBB
+    manufactureYear: 2000
+    serialNumber: ec52b6d8-6d5d-4c86-a7a0-411e5c551b57
+    type: DIESEL
+  - emptyWeight: 2000
+    length: 20
+    traction: 10000
+    passengerCapacity: 5
+    freightCapacity: 1000
+    typeName: Coole Dampf-Lok
+    manufacturer: OEBB
+    manufactureYear: 2000
+    serialNumber: 41755d90-2d40-4bb6-b797-540343365794
+    type: STEAM
+  - emptyWeight: 2000
+    length: 20
+    traction: 100000
+    passengerCapacity: 5
+    freightCapacity: 1000
+    typeName: Coole Dampf-Lok
+    manufacturer: OEBB
+    manufactureYear: 2000
+    serialNumber: 9861f405-9e47-435a-8b12-98898d064393
+    type: ELECTRIC
+
+waggons:
+  - emptyWeight: 1000
+    length: 30
+    passengerCapacity: 0
+    freightCapacity: 5000
+    typeName: Frachter 1
+    manufacturer: ich
+    manufactureYear: 2010
+    serialNumber: 7c253998-61f3-4a92-85f1-3c7163cb5c6d
+    type: FREIGHT_CAR
+  - emptyWeight: 1000
+    length: 35
+    passengerCapacity: 1000
+    freightCapacity: 0
+    typeName: Personen
+    manufacturer: ich
+    manufactureYear: 1999
+    serialNumber: b791e1d7-b2d8-4065-8725-6765403e0c40
+    type: COACH
+  - emptyWeight: 1000
+    length: 40
+    passengerCapacity: 20
+    freightCapacity: 0
+    typeName: Schlafwagen
+    manufacturer: ich
+    manufactureYear: 2000
+    serialNumber: 459be378-39e2-4f48-92dd-faa432dc2fae
+    type: SLEEPER
